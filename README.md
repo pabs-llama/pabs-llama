@@ -31,7 +31,7 @@ Here are some projects I’m most proud of (click to explore):
 
 | Project | Description | Tags |
 |--------|-------------|------|
-| [🚴 Capital Bikeshare Demand](https://github.com/pabs-llama/projects/tree/main/project_3_-capitalbikeshare) | Predicting ride demand based on station proximity to public transport, city center, landmarks and population density | Geospatial · Regression · EDA |
+| [🚴 Capital Bikeshare Demand](https://github.com/pabs-llama/capital-bikeshare-analysis) | Predicting ride demand based on station proximity to public transport, city center, landmarks and population density | Geospatial · Regression · EDA |
 | [🏗️ Pollutant Predictor for Construction Materials](https://github.com/pabs-llama/projects/tree/main/pollutant-predictor) | Bootstrapped a model to classify pollutants based on Ökobaudat data | ML · Classification · NLP |
 | [📰 Crypto Sentiment Pipeline](https://github.com/pabs-llama/projects/tree/main/crypto-sentiment-pipeline) | Scraped financial news & analyzed crypto market sentiment with TextBlob. | Web Scraping · NLP · SQL |
 | [🌍 Air Risk Index for Asthma](https://github.com/pabs-llama/projects/tree/main/ari-index-map) | Aggregated NO₂, O₃, humidity and temperature into a spatial health index. | AQI · Satellite Data · Folium |
