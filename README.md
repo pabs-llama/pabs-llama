@@ -32,7 +32,7 @@ Here are some projects I’m most proud of (click to explore):
 | Project | Description | Tags |
 |--------|-------------|------|
 | [🚴 Capital Bikeshare Demand](https://github.com/pabs-llama/capital-bikeshare-analysis) | Predicting ride demand based on station proximity to public transport, city center, landmarks and population density | Geospatial · Regression · EDA |
-| [🏗️ Pollutant Predictor for Construction Materials](https://github.com/n3xtcoder-ai4impact/bbsr-challenge) | Bootstrapped a model to classify pollutants based on Ökobaudat data | ML · Classification · NLP |
+| [🏗️ Pollutant Predictor for Construction Materials](https://github.com/n3xtcoder-ai4impact/bbsr-challenge) | Built a pollutant classifier for construction materials using ÖKOBAUDAT — Germany’s official environmental database — with a multi-label machine learning pipeline. | Python · scikit-learn · fuzyy match · Web Scraping |
 | [📰 Crypto Analysis Pipeline](https://github.com/pabs-llama/crypto_analysis) | Built a Streamlit app to track Crypto currencies prices & news sentiments.  Automated data pipelines. | Web Scraping · NLP · SQL · Streamlit |
 | [🌍 HealthyTravels!](https://github.com/hacke-peter/jawa) | Designed an app to help travelers with chronic illness select safe destinations| AQI · Satellite Data · Folium |
 | [🌍 E-commerce Discounts & COGS Dashboard](https://github.com/pabs-llama/ecommerce-dashboard) | Tableau dashboard to visualise KPIs, focusing on the impact of discounts and COGS in the Profit Margin.| SQL · Python · Tableau |
